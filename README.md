@@ -1,4 +1,4 @@
-**Create Your Own Image Classifier**
+# Create Your Own Image Classifier
 
 ______________________________________________________________________________________________________________________________________
 This project is part of the Udacity Machine Learning Engineer Nanodegree. The goal is to create an image classifier to identify flowers. The project consists of 2 parts:
